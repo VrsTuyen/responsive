@@ -5,3 +5,13 @@ body{
 .container{
     background-color: coral;
 }
+
+h1{
+    font-size: 30px;
+    line-height: 30px;
+    display: block;
+}
+
+.course{
+    height: 60px;
+}
